@@ -10,15 +10,26 @@ export const metadata = {
 
 //components
 import Navbar from "./components/navbar";
+import Landing from "./components/landing";
+import Items from "./components/items";
+import About from "./components/about"
+import Chat from "./components/chatBox";
+import Cart from "./components/cart";
+
+
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <body className={inter.className}>
         <Navbar />
-
-
-
-      <body className={inter.className}>{children}</body>
+        <Chat />
+        <Landing />
+        <Items />
+        <About />
+        <Chat />
+        <Cart />
+        {children}</body>
     </html>
   );
 }
