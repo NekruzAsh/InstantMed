@@ -2,13 +2,13 @@ import React from 'react';
 
 
 const items = [
-    { index: 1, name: 'Ibuprofen', price: '$25.99', image: "pill.png", description:
+    { index: 1, name: 'Ibuprofen', price: '$25.99', image: "/images/pill.png", description:
              "Product description. Lorem ipsum dolor sit amet, consecteturadipisicing elit. Product description. Lorem ipsum dolor sit amet, consectetur adipisicing elit." },
-    { index: 2, name: 'Advil', price: '$19.99', image: "pill.png", description:
+    { index: 2, name: 'Advil', price: '$19.99', image: "/images/pill.png", description:
     "Product description. Lorem ipsum dolor sit amet, consecteturadipisicing elit. Product description. Lorem ipsum dolor sit amet, consectetur adipisicing elit." },
-    { index: 3, name: 'Paracetamol', price: '$27.99', image: "pill.png", description:
+    { index: 3, name: 'Paracetamol', price: '$27.99', image: "/images/pill.png", description:
              "Product description. Lorem ipsum dolor sit amet, consecteturadipisicing elit. Product description. Lorem ipsum dolor sit amet, consectetur adipisicing elit." },
-    { index: 4, name: 'Aspirin', price: '$9.99', image: "pill.png", description:
+    { index: 4, name: 'Aspirin', price: '$9.99', image: "/images/pill.png", description:
     "Product description. Lorem ipsum dolor sit amet, consecteturadipisicing elit. Product description. Lorem ipsum dolor sit amet, consectetur adipisicing elit." },
 ];
 
