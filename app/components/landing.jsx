@@ -25,16 +25,17 @@ const main = () => {
               starts here!
             </p>
           </div>
+          <a href="/#store">
           <div className="btn mt-4 md:mt-16">
-            <a href="/#store">
+            
             <span>Shop Health.</span>
             <svg width="15px" height="10px" viewBox="0 0 13 10">
               <path d="M1,5 L11,5"></path>
               <polyline points="8 1 12 5 8 9"></polyline>
             </svg>
-            </a>
+           
           </div>
-          
+          </a>
         </div>
       </div>
     </div>
