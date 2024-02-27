@@ -14,17 +14,7 @@ const main = () => {
             <span className="text-[#089000]">Delivering Hope:</span> Your
             Prescriptions, Our Priority.
           </h1>
-          <div className="box-border md:h-[141px] md:w-[560px] sm:w-[500px] h-[141px] p-0 border-0">
-            <p
-              className="text-[#089000] md:text-[18px] sm:text-md text-sm md:py-10 py-6"
-              style={{ lineHeight: "1.5" }}
-            >
-              Discover wellness at its best! Step into <span className="font-bold text-[#0a5d00]">InstantMed</span>, where
-              health meets care. Quality medicines, expert advice, and a
-              commitment to your well-being. Your journey to a healthier life
-              starts here!
-            </p>
-          </div>
+          
           <a href="/#store">
           <div className="btn mt-4 md:mt-16">
             
